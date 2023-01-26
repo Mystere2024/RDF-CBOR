@@ -1,0 +1,1 @@
+# This script encodes an rdf graph  {(s, p, o)} , input in different serializations,into the RDF CBOR bytearray.
