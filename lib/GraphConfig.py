@@ -1,0 +1,1 @@
+#This script extracts for each RD graph: all curies, all prefixes, 
